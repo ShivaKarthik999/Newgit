@@ -1,0 +1,10 @@
+
+
+{
+	"Resources" : {
+	 "sssss1234" :{
+	"Type" : "AWS::S3::Bucket"
+	}
+     }
+}
+
